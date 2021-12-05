@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c1ca1d16-7031-4c02-9fdf-0ac7c442a4fa": {
+      "ProjectGuid": "c1ca1d16-7031-4c02-9fdf-0ac7c442a4fa",
+      "DisplayName": "Stock API",
+      "ColorIndex": 0
+    },
+    "64d5a804-87a0-4ebf-a65e-2068495ac8e8": {
+      "ProjectGuid": "64d5a804-87a0-4ebf-a65e-2068495ac8e8",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 1
+    },
+    "143e5a7c-9448-48e1-8159-89801cfd2df4": {
+      "ProjectGuid": "143e5a7c-9448-48e1-8159-89801cfd2df4",
+      "DisplayName": "Domain",
+      "ColorIndex": 2
+    },
+    "b2e4d3d5-6611-4ed4-96df-e013bdaeebc7": {
+      "ProjectGuid": "b2e4d3d5-6611-4ed4-96df-e013bdaeebc7",
+      "DisplayName": "docker-compose",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "53f6cee8-0bad-45d1-99fb-6d0b0754d1f5": {
+      "ProjectGuid": "53f6cee8-0bad-45d1-99fb-6d0b0754d1f5",
+      "DisplayName": "docker-compose",
+      "ColorIndex": 4
+    },
+    "1a408a12-1c35-4a15-b11d-efa5d2e22eeb": {
+      "ProjectGuid": "1a408a12-1c35-4a15-b11d-efa5d2e22eeb",
+      "DisplayName": "docker-compose",
+      "ColorIndex": 5
+    },
+    "e522ecf3-4fd5-4469-8045-5fb224f49b2c": {
+      "ProjectGuid": "e522ecf3-4fd5-4469-8045-5fb224f49b2c",
+      "DisplayName": "docker-compose",
+      "ColorIndex": 6
+    },
+    "64bf9e0a-0f49-437c-85b5-fd9a6d6872fb": {
+      "ProjectGuid": "64bf9e0a-0f49-437c-85b5-fd9a6d6872fb",
+      "DisplayName": "Test",
+      "ColorIndex": 7
+    },
+    "5156c96c-72b2-4e44-9995-de5bb159cc37": {
+      "ProjectGuid": "5156c96c-72b2-4e44-9995-de5bb159cc37",
+      "DisplayName": "Test",
+      "ColorIndex": 8
+    },
+    "d6fe96c9-9bbb-4769-b6fe-1b38c76efffb": {
+      "ProjectGuid": "d6fe96c9-9bbb-4769-b6fe-1b38c76efffb",
+      "DisplayName": "NTest",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

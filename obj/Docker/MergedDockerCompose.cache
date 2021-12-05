@@ -1,0 +1,12 @@
+services:
+  stockapi:
+    build:
+      context: .
+      dockerfile: Stock API\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: stockapi
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp

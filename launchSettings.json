@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "Docker Compose": {
+      "commandName": "DockerCompose",
+      "composeLaunchAction": "LaunchBrowser",
+      "composeLaunchServiceName": "stockapi",
+      "composeLaunchUrl": "{Scheme}://{ServiceIPAddress}{ServicePort}/",
+      "commandVersion": "1.0",
+      "serviceActions": {
+        "stockapi": "StartDebugging"
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+C:\Users\draka\source\repos\Stock API\bin\Debug\Stock API.deps.json
+C:\Users\draka\source\repos\Stock API\bin\Debug\Stock API.runtimeconfig.json
+C:\Users\draka\source\repos\Stock API\bin\Debug\Stock API.runtimeconfig.dev.json
+C:\Users\draka\source\repos\Stock API\bin\Debug\appsettings.Development.json
+C:\Users\draka\source\repos\Stock API\bin\Debug\appsettings.json
+C:\Users\draka\source\repos\Stock API\bin\Debug\Stock API.exe
+C:\Users\draka\source\repos\Stock API\bin\Debug\Stock API.dll
+C:\Users\draka\source\repos\Stock API\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\draka\source\repos\Stock API\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\draka\source\repos\Stock API\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\draka\source\repos\Stock API\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\draka\source\repos\Stock API\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\draka\source\repos\Stock API\bin\Debug\DataAccess.dll
+C:\Users\draka\source\repos\Stock API\bin\Debug\Domain.dll
+C:\Users\draka\source\repos\Stock API\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\draka\source\repos\Stock API\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\draka\source\repos\Stock API\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\draka\source\repos\Stock API\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\draka\source\repos\Stock API\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\draka\source\repos\Stock API\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\draka\source\repos\Stock API\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\draka\source\repos\Stock API\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\draka\source\repos\Stock API\bin\Debug\System.Collections.Immutable.dll
+C:\Users\draka\source\repos\Stock API\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\draka\source\repos\Stock API\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\draka\source\repos\Stock API\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\draka\source\repos\Stock API\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\draka\source\repos\Stock API\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\draka\source\repos\Stock API\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\draka\source\repos\Stock API\bin\Debug\Microsoft.OpenApi.dll
+C:\Users\draka\source\repos\Stock API\bin\Debug\Stock API.pdb
+C:\Users\draka\source\repos\Stock API\bin\Debug\DataAccess.pdb
+C:\Users\draka\source\repos\Stock API\bin\Debug\Domain.pdb
+C:\Users\draka\source\repos\Stock API\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\draka\source\repos\Stock API\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\draka\source\repos\Stock API\obj\Debug\docker-compose.dcproj.CopyComplete
